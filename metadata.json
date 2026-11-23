@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Keys — Interactive 3D Keychain",
+  "description": "Interactive 3D luxury keychain featuring Prince Art Gallery, Art Code, and Icon Art Magazine sculpted keys in 24k gold and obsidian lacquer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
